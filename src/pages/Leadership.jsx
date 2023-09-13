@@ -1,7 +1,4 @@
 import React from 'react'
-import LeadershipProfile from '../components/LeadershipProfile'
-import samuel_radocha from '../assets/leadership_headshots/samuel_radocha.jpeg'
-import jaime_brunette from '../assets/leadership_headshots/jaime_burnette.jpeg'
 
 function Leadership() {
   return (
