@@ -13,16 +13,16 @@ function NavBar() {
                <span className='inline ml-4 text-xl text-primary'>Entrepreneurship Club</span>
             </Link>
         </div>
-        <details className="dropdown dropdown-end">
+        {/* <details className="dropdown dropdown-end">
             <summary className="float-right m-1 btn btn-ghost">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" className="inline-block w-5 h-5 stroke-current"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 12h.01M12 12h.01M19 12h.01M6 12a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0z"></path></svg>
             </summary>
             <ul className="float-right shadow menu dropdown-content bg-base-100 rounded-box mt-10">
-                {/* <li> <Link className='text-right float-right' to={'/about'}>Events</Link> </li>
-                <li> <Link className='text-right float-right' to={'/blog'}>Leadership</Link> </li> */}
-                {/* <li><Link className='text-xl ml-20' to='/contact'>Contact</Link></li> */}
+                <li> <Link className='text-right float-right' to={'/about'}>Events</Link> </li>
+                <li> <Link className='text-right float-right' to={'/blog'}>Leadership</Link> </li>
+                <li><Link className='text-xl ml-20' to='/contact'>Contact</Link></li>
             </ul>
-        </details>
+        </details> */}
                 
       </div>
     )
