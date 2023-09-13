@@ -6,6 +6,8 @@ import hero_image from '../assets/hero_image.jpg'
 import hero_image_mobile from '../assets/hero_image_mobile.jpg'
 import {isMobile} from 'react-device-detect';
 
+import pdf from '../assets/E-Club 2023 Kickoff Slides.pdf'
+
 function HomePage() {
     let heroImageElement = ""
     if(!isMobile){
@@ -47,6 +49,8 @@ function HomePage() {
 
         <div className='lg:clear-left'></div>
         <div className="lg:mb-8"></div>
+
+        <a className='btn btn-primary w-full' href={pdf}>Click Here for Todays Slides</a>
 
         {/* <h2 className='text-3xl mt-8 text-primary mx-auto lg:text-4xl'>Sign up for our Newsletter</h2>
         <p className='mt-4 text-xl'>
