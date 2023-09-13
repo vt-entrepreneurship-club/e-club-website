@@ -48,10 +48,10 @@ function HomePage() {
         <div className='lg:clear-left'></div>
         <div className="lg:mb-8"></div>
 
-        <h2 className='text-3xl mt-8 text-primary mx-auto lg:text-4xl'>Sign up for our Newsletter</h2>
+        {/* <h2 className='text-3xl mt-8 text-primary mx-auto lg:text-4xl'>Sign up for our Newsletter</h2>
         <p className='mt-4 text-xl'>
         Join 2,000 others in finding out what's new in the entrepreneurial community around Blacksburg. Delivered weekly to your inbox during the semester.
-        </p>
+        </p> */}
         {/* <div className="form-control mt-10">
             <input type="text" placeholder="Name" className="input input-bordered input-primary w-full mb-4" />
             <input type="email" placeholder="Email" className="input input-bordered input-primary w-full mb-4" />
