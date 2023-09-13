@@ -50,7 +50,7 @@ function HomePage() {
         <div className='lg:clear-left'></div>
         <div className="lg:mb-8"></div>
 
-        <a className='btn btn-primary w-full' href={pdf}>Click Here for Todays Slides</a>
+        <a className='btn btn-primary w-full' href={pdf} target='_blank'>Click Here for Todays Slides</a>
 
         {/* <h2 className='text-3xl mt-8 text-primary mx-auto lg:text-4xl'>Sign up for our Newsletter</h2>
         <p className='mt-4 text-xl'>
