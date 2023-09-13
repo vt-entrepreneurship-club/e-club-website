@@ -52,11 +52,11 @@ function HomePage() {
         <p className='mt-4 text-xl'>
         Join 2,000 others in finding out what's new in the entrepreneurial community around Blacksburg. Delivered weekly to your inbox during the semester.
         </p>
-        <div className="form-control mt-10">
+        {/* <div className="form-control mt-10">
             <input type="text" placeholder="Name" className="input input-bordered input-primary w-full mb-4" />
             <input type="email" placeholder="Email" className="input input-bordered input-primary w-full mb-4" />
             <button className="btn btn-primary">Submit</button>
-        </div>
+        </div> */}
     </div>
   )
 }
