@@ -33,9 +33,9 @@ function NavBar() {
             <img className='w-16' src={logo} alt="" />
             <span className="text-4xl ml-10 text-primary">Entrepreneurship Club</span>
         </Link>
-{/*         
-        <Link className='text-xl ml-20' to='/events'>Events</Link>
-        <Link className='text-xl ml-20' to='/leadership'>Leadership</Link> */}
+        
+        {/* <Link className='text-xl ml-20' to='/events'>Events</Link> */}
+        {/* <Link className='text-xl ml-20' to='/leadership'>Leadership</Link> */}
         {/* <Link className='text-xl ml-20' to='/contact'>Contact</Link> */}
     </div>
   ) 
