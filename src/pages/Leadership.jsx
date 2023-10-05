@@ -17,6 +17,11 @@ function Leadership() {
       title: "President",
       linkedin: "https://www.linkedin.com/in/samuel-radocha/"
     },{
+      headshot: brody_emery,
+      name: "Brody Emery",
+      title: "Vice President",
+      linkedin: "https://www.linkedin.com/in/brody-emery-88539321b/"
+    },{
       headshot: ebenezer_zergabachew,
       name: "Ebenezer Zergabachew",
       title: "Head of Technology",
@@ -31,11 +36,6 @@ function Leadership() {
       name: "Jeremiah Hohn",
       title: "Junior Marketing Director",
       linkedin: "https://www.linkedin.com/in/jeremiahhohn/"
-    },{
-      headshot: brody_emery,
-      name: "Brody Emery",
-      title: "Project Manager",
-      linkedin: "https://www.linkedin.com/in/brody-emery-88539321b/"
     },{
       headshot: sid,
       name: "Siddarth Ashok",
